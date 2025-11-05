@@ -1,4 +1,4 @@
-This is my attempt at improving MindEyeV2
+This is my attempt at improving MindEyeV2.
 
 ## Acknowledgement
 
